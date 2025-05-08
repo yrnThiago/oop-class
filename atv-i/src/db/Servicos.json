@@ -1,0 +1,26 @@
+{
+    "servicos": [
+      {
+        "nome": "Banho e Tosa",
+        "valor": 80.00,
+        "qtdVendidas": 15,
+        "tipo": "Estética",
+        "raca": "Poodle"
+      },
+      {
+        "nome": "Consulta Veterinária",
+        "valor": 120.00,
+        "qtdVendidas": 20,
+        "tipo": "Saúde",
+        "raca": "Labrador"
+      },
+      {
+        "nome": "Vacinação",
+        "valor": 90.00,
+        "qtdVendidas": 12,
+        "tipo": "Saúde",
+        "raca": "Pastor Alemão"
+      }
+    ]
+  }
+  

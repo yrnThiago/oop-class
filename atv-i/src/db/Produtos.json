@@ -1,0 +1,26 @@
+{
+    "produtos": [
+      {
+        "nome": "Ração para Cães",
+        "valor": 50.00,
+        "qtdVendidas": 10,
+        "tipo": "Alimento",
+        "raca": "Golden Retriever"
+      },
+      {
+        "nome": "Shampoo para Gatos",
+        "valor": 30.00,
+        "qtdVendidas": 5,
+        "tipo": "Higiene",
+        "raca": "Siamês"
+      },
+      {
+        "nome": "Coleira Anti-Pulgas",
+        "valor": 45.99,
+        "qtdVendidas": 7,
+        "tipo": "Acessório",
+        "raca": "Bulldog"
+      }
+    ]
+  }
+  

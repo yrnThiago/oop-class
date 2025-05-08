@@ -1,0 +1,91 @@
+{
+    "clientes": [
+      {
+        "nome": "João da Silva",
+        "nomeSocial": "João",
+        "cpf": {
+          "numero": "123.456.789-10",
+          "dataEmissao": "2020-01-01"
+        },
+        "rgs": [
+          {
+            "numero": "12.345.678-9",
+            "dataEmissao": "2018-03-10"
+          }
+        ],
+        "dataCadastro": "2022-05-10T00:00:00.000Z",
+        "telefones": [
+          {
+            "ddd": "11",
+            "numero": "98765-4321"
+          }
+        ],
+        "produtosConsumidos": [
+          {
+            "nome": "Shampoo para Cachorros",
+            "valor": 35.99,
+            "qtdVendidas": 2
+          }
+        ],
+        "servicosConsumidos": [
+          {
+            "nome": "Banho e Tosa",
+            "valor": 80.00,
+            "qtdVendidas": 1
+          }
+        ],
+        "pets": [
+          {
+            "nome": "Rex",
+            "tipo": "Cachorro",
+            "raca": "Golden Retriever",
+            "idade": 5
+          }
+        ]
+      },
+      {
+        "nome": "Maria Oliveira",
+        "nomeSocial": "Maria",
+        "cpf": {
+          "numero": "987.654.321-00",
+          "dataEmissao": "2019-07-15"
+        },
+        "rgs": [
+          {
+            "numero": "98.765.432-1",
+            "dataEmissao": "2017-11-22"
+          }
+        ],
+        "dataCadastro": "2021-11-20T00:00:00.000Z",
+        "telefones": [
+          {
+            "ddd": "21",
+            "numero": "91234-5678"
+          }
+        ],
+        "produtosConsumidos": [
+          {
+            "nome": "Ração para Gatos",
+            "valor": 55.99,
+            "qtdVendidas": 1
+          }
+        ],
+        "servicosConsumidos": [
+          {
+            "nome": "Consulta Veterinária",
+            "valor": 120.00,
+            "qtdVendidas": 1
+          }
+        ],
+        "pets": [
+          {
+            "nome": "Mia",
+            "tipo": "Gato",
+            "raca": "Siamês",
+            "idade": 3
+          }
+        ]
+      }
+    ]
+  }
+  
